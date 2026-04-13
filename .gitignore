@@ -1,0 +1,15 @@
+# Claude Code internos
+.claude/
+.agents/
+skills-lock.json
+
+# Arquivos extraídos para análise (não fazem parte do site)
+moodboard_img_*.png
+
+# Documentos pesados de referência (manter localmente)
+brandbookTOLE.svg
+Tole_Visao_Produto.pptx
+
+# OS
+.DS_Store
+Thumbs.db
